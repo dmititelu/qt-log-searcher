@@ -1,0 +1,38 @@
+1,0x01,"Starting system"
+1,0x03,"Starting system crashed"
+4,0x02,"Low memory on sda103"
+8,0x01,"Discovering network"
+23,0x01,"Found network nodes"
+36,0x01,"Disovering master server"
+59,0x03,"Node 1.2.3.4 running deprectated firmware"
+88,0x02,"Low bandwidth connection detected"
+112,0x02,"Defaulting to compressed communications mode"
+154,0x01,"Established handshake with master server"
+185,0x01,"Updating services"
+199,0x02,"Unable to update service foo"
+222,0x03,"Service foo will not be available"
+239,0x03,"Network is down, falling back to idle mode"
+.
+1,0x01,"Starting system"
+8,0x01,"Discovering network"
+23,0x01,"Found network nodes"
+36,0x01,"Disovering master server"
+154,0x01,"Established handshake with master server"
+185,0x01,"Updating services"
+89,0x01,"All systems up and running"
+77,0x01,"New peer connection requested from 2.3.4.5"
+194,0x02,"Athentication with peer 2.3.4.5 failed"
+432,0x03,"Denying peer 2.3.4.5 service connection"
+666,0x03,"Peer 2.3.4.5 failed to connect to service network"
+1102,0x01,"Network and connectivity analysis are stable and all sanity checks passed"
+.
+1,0x02,"Starting system"
+333,0x02,"Ghe"
+334,0x02,"Ghebosi"
+335,0x02,"Gherghelia"
+.
+
+m_FullLogList
+
+gunoi, gunoi, gunoi
+333, gunoi, mesaj
